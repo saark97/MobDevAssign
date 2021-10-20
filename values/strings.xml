@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MobDevAssignment</string>
+
+    <string-array name="intRatesOptions" >
+        <item> Fixed rate: 3.49% </item>
+        <item> Fixed rate: 2.29% </item>
+        <item> Fixed rate: 1.55% </item>
+        <item> Fixed rate: 2.24% </item>
+        <item> Fixed rate: 5.24% </item>
+    </string-array>
+
+    <string-array name="yrs">
+        <item> 5 years </item>
+        <item> 10 years </item>
+        <item> 15 years </item>
+        <item> 20 years </item>
+        <item> 25 years </item>
+        <item> 30 years </item>
+    </string-array>
+
+    <string-array name="freqList">
+        <item> Monthly </item>
+    </string-array>
+
+</resources>
+
